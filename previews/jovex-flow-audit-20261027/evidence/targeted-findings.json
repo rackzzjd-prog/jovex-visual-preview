@@ -1,0 +1,449 @@
+{
+  "overflow": [
+    {
+      "requestedWidth": 320,
+      "path": "/services/redesign-rebranding/",
+      "innerWidth": 344,
+      "clientWidth": 320,
+      "scrollWidth": 344,
+      "overflowing": [
+        {
+          "selector": "div.sub-hero-glow",
+          "text": "",
+          "left": -300,
+          "right": 450,
+          "scroll": 748,
+          "client": 748,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "02Visual identity modernization",
+          "left": 187.203125,
+          "right": 343.71875,
+          "scroll": 155,
+          "client": 155,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "h3.",
+          "text": "Visual identity modernization",
+          "left": 207.203125,
+          "right": 323.71875,
+          "scroll": 117,
+          "client": 117,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "i.",
+          "text": "",
+          "left": 309.71875,
+          "right": 325.71875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 309.71875,
+          "right": 325.71875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "path.[object SVGAnimatedString]",
+          "text": "",
+          "left": 313.0520935058594,
+          "right": 322.3854064941406,
+          "scroll": 0,
+          "client": 0,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "04Responsive website redesign",
+          "left": 187.203125,
+          "right": 343.71875,
+          "scroll": 155,
+          "client": 155,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "h3.",
+          "text": "Responsive website redesign",
+          "left": 207.203125,
+          "right": 323.71875,
+          "scroll": 117,
+          "client": 117,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "i.",
+          "text": "",
+          "left": 309.71875,
+          "right": 325.71875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 309.71875,
+          "right": 325.71875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "path.[object SVGAnimatedString]",
+          "text": "",
+          "left": 313.0520935058594,
+          "right": 322.3854064941406,
+          "scroll": 0,
+          "client": 0,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "06Redirect & migration planning",
+          "left": 187.203125,
+          "right": 343.71875,
+          "scroll": 155,
+          "client": 155,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "h3.",
+          "text": "Redirect & migration planning",
+          "left": 207.203125,
+          "right": 323.71875,
+          "scroll": 117,
+          "client": 117,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "i.",
+          "text": "",
+          "left": 309.71875,
+          "right": 325.71875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 309.71875,
+          "right": 325.71875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        }
+      ]
+    },
+    {
+      "requestedWidth": 320,
+      "path": "/services/lead-generation/",
+      "innerWidth": 373,
+      "clientWidth": 320,
+      "scrollWidth": 373,
+      "overflowing": [
+        {
+          "selector": "div.sub-hero-glow",
+          "text": "",
+          "left": -300,
+          "right": 450,
+          "scroll": 748,
+          "client": 748,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "02Accessible inquiry form design",
+          "left": 184.578125,
+          "right": 373.046875,
+          "scroll": 186,
+          "client": 186,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "h3.",
+          "text": "Accessible inquiry form design",
+          "left": 204.578125,
+          "right": 353.046875,
+          "scroll": 148,
+          "client": 148,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "i.",
+          "text": "",
+          "left": 339.046875,
+          "right": 355.046875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 339.046875,
+          "right": 355.046875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "path.[object SVGAnimatedString]",
+          "text": "",
+          "left": 342.3802185058594,
+          "right": 351.7135314941406,
+          "scroll": 0,
+          "client": 0,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "04CRM-ready workflow specification",
+          "left": 184.578125,
+          "right": 373.046875,
+          "scroll": 186,
+          "client": 186,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "h3.",
+          "text": "CRM-ready workflow specification",
+          "left": 204.578125,
+          "right": 353.046875,
+          "scroll": 148,
+          "client": 148,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "i.",
+          "text": "",
+          "left": 339.046875,
+          "right": 355.046875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 339.046875,
+          "right": 355.046875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "path.[object SVGAnimatedString]",
+          "text": "",
+          "left": 342.3802185058594,
+          "right": 351.7135314941406,
+          "scroll": 0,
+          "client": 0,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "06Testing & optimization recommendations",
+          "left": 184.578125,
+          "right": 373.046875,
+          "scroll": 186,
+          "client": 186,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "h3.",
+          "text": "Testing & optimization recommendations",
+          "left": 204.578125,
+          "right": 353.046875,
+          "scroll": 148,
+          "client": 148,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "i.",
+          "text": "",
+          "left": 339.046875,
+          "right": 355.046875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 339.046875,
+          "right": 355.046875,
+          "scroll": 16,
+          "client": 16,
+          "whiteSpace": "normal"
+        }
+      ]
+    },
+    {
+      "requestedWidth": 375,
+      "path": "/services/lead-generation/",
+      "innerWidth": 377,
+      "clientWidth": 375,
+      "scrollWidth": 377,
+      "overflowing": [
+        {
+          "selector": "div.sub-hero-glow",
+          "text": "",
+          "left": -245,
+          "right": 505,
+          "scroll": 748,
+          "client": 748,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "02Accessible inquiry form design",
+          "left": 188.578125,
+          "right": 377.046875,
+          "scroll": 186,
+          "client": 186,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "04CRM-ready workflow specification",
+          "left": 188.578125,
+          "right": 377.046875,
+          "scroll": 186,
+          "client": 186,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "li.",
+          "text": "06Testing & optimization recommendations",
+          "left": 188.578125,
+          "right": 377.046875,
+          "scroll": 186,
+          "client": 186,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "span.closing-symbol",
+          "text": "",
+          "left": 165,
+          "right": 425,
+          "scroll": 260,
+          "client": 260,
+          "whiteSpace": "normal"
+        },
+        {
+          "selector": "svg.[object SVGAnimatedString]",
+          "text": "",
+          "left": 165,
+          "right": 425,
+          "scroll": 260,
+          "client": 260,
+          "whiteSpace": "normal"
+        }
+      ]
+    }
+  ],
+  "illustrationColors": [
+    {
+      "width": 390,
+      "colors": [
+        {
+          "text": "01Discover",
+          "foreground": "rgb(241, 243, 246)",
+          "background": "rgb(241, 243, 246)",
+          "child": [
+            {
+              "text": "01",
+              "color": "rgb(215, 220, 228)"
+            }
+          ]
+        },
+        {
+          "text": "02Understand",
+          "foreground": "rgb(241, 243, 246)",
+          "background": "rgb(241, 243, 246)",
+          "child": [
+            {
+              "text": "02",
+              "color": "rgb(215, 220, 228)"
+            }
+          ]
+        },
+        {
+          "text": "03Take the next step ",
+          "foreground": "rgb(241, 243, 246)",
+          "background": "rgb(48, 55, 67)",
+          "child": [
+            {
+              "text": "03",
+              "color": "rgb(241, 243, 246)"
+            },
+            {
+              "text": "",
+              "color": "rgb(241, 243, 246)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "colors": [
+        {
+          "text": "01Discover",
+          "foreground": "rgb(241, 243, 246)",
+          "background": "rgb(241, 243, 246)",
+          "child": [
+            {
+              "text": "01",
+              "color": "rgb(215, 220, 228)"
+            }
+          ]
+        },
+        {
+          "text": "02Understand",
+          "foreground": "rgb(241, 243, 246)",
+          "background": "rgb(241, 243, 246)",
+          "child": [
+            {
+              "text": "02",
+              "color": "rgb(215, 220, 228)"
+            }
+          ]
+        },
+        {
+          "text": "03Take the next step ",
+          "foreground": "rgb(241, 243, 246)",
+          "background": "rgb(48, 55, 67)",
+          "child": [
+            {
+              "text": "03",
+              "color": "rgb(241, 243, 246)"
+            },
+            {
+              "text": "",
+              "color": "rgb(241, 243, 246)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pointer": [
+    {
+      "hover": true,
+      "transform": "matrix(1, 0, 0, 1, 0, -3)",
+      "art": "matrix(1.025, 0, 0, 1.025, 0, 0)"
+    }
+  ],
+  "allTabAxe": []
+}

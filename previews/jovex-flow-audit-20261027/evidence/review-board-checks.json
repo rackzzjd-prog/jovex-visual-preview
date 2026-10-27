@@ -1,0 +1,25 @@
+{
+  "checks": [
+    {
+      "width": 390,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/report.html",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/report.html",
+      "overflow": false
+    }
+  ],
+  "passed": true
+}

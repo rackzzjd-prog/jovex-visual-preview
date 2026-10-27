@@ -1,0 +1,149 @@
+[
+  {
+    "branch": "origin",
+    "sha": "47ff039a48aae1bee48e3ab5e1ec6f781c8139a9",
+    "trackedFiles": 2,
+    "ancestorOfObsidian": true,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "chore/jovex-autonomous-build-rules-2026-10-23",
+    "sha": "c6eb15e70ea11536c787c4520c465d46926c745c",
+    "trackedFiles": 2,
+    "ancestorOfObsidian": true,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "design-reference-anchors",
+    "sha": "627aeba5bf0211400030ddec53a7b36541256057",
+    "trackedFiles": 3,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-approved-four-stage-build",
+    "sha": "3cf8ffb138f4040c3c28c57e37a948a64535e41a",
+    "trackedFiles": 205,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-direct-implementation",
+    "sha": "aa65cd719678520922f13505f71a842c48feef64",
+    "trackedFiles": 53,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-editorial-visual-refinement",
+    "sha": "cb757bdcc394e7df05409cee9a892c17dc26e4b2",
+    "trackedFiles": 28,
+    "ancestorOfObsidian": true,
+    "designFiles": [
+      "public/identity.css",
+      "public/site.js",
+      "public/styles.css",
+      "src/site.mjs"
+    ],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-featured-concepts-prototype",
+    "sha": "361be5612c8cb9b150dbbecee606352dcdb3d8fa",
+    "trackedFiles": 45,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-flow-reference-redesign",
+    "sha": "d22f68eb7e179a8761df6e5f62efb7dd3c10a60c",
+    "trackedFiles": 3,
+    "ancestorOfObsidian": true,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-next-visual-interactions-20261024",
+    "sha": "bc733803722e201853840aac16ef4708203d7f7b",
+    "trackedFiles": 36,
+    "ancestorOfObsidian": true,
+    "designFiles": [
+      "public/identity.css",
+      "public/site.js",
+      "public/styles.css",
+      "src/site.mjs"
+    ],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-obsidian-chrome-20261025",
+    "sha": "131d184338960ae658f1ef40cd1ef0ca971677f5",
+    "trackedFiles": 50,
+    "ancestorOfObsidian": true,
+    "designFiles": [
+      "public/identity.css",
+      "public/site.js",
+      "public/styles.css",
+      "src/site.mjs"
+    ],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-streetwear-storefront-v1",
+    "sha": "29fa925f615109615641d0bd78ea51948d8bc633",
+    "trackedFiles": 51,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "feat/jovex-website",
+    "sha": "8cdd1a9bb068f13508b16f5210cd996b71fbe981",
+    "trackedFiles": 138,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "main",
+    "sha": "47ff039a48aae1bee48e3ab5e1ec6f781c8139a9",
+    "trackedFiles": 2,
+    "ancestorOfObsidian": true,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "preview/jovex-ui-lab",
+    "sha": "d10a5334965827b072a8ee73ce580846281d0d71",
+    "trackedFiles": 33,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "review/jovex-flow-implementation-20261024",
+    "sha": "8403fe58202f6c00fa24be4877cc93640e37dd7d",
+    "trackedFiles": 20,
+    "ancestorOfObsidian": true,
+    "designFiles": [
+      "public/site.js",
+      "public/styles.css",
+      "src/site.mjs"
+    ],
+    "referenceImageCandidates": []
+  },
+  {
+    "branch": "test/codex-github-access",
+    "sha": "7f3baa20b7c3bd40d4ddc63f88f4994a6ee9dcfe",
+    "trackedFiles": 139,
+    "ancestorOfObsidian": false,
+    "designFiles": [],
+    "referenceImageCandidates": []
+  }
+]

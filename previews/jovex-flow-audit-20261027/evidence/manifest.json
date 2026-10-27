@@ -1,0 +1,274 @@
+{
+  "REPORT.md": {
+    "bytes": 26975,
+    "sha256": "b9e856ba8907a503bf0da5d754e715c8f9dfaa91ab25630f6aae9d8e4f07a778"
+  },
+  "index.html": {
+    "bytes": 21294,
+    "sha256": "13941665c8d554566fa1fee51d0cd8caa8eb8faebb725a24be08b9e56fe05c38"
+  },
+  "report.html": {
+    "bytes": 29651,
+    "sha256": "1c0f8dda43f346aa949e98b6353d6955b99f35397dd70fa22cf232e7a8036f9e"
+  },
+  "review.css": {
+    "bytes": 1923,
+    "sha256": "8a3112d347bea9739183711a9abbdd0e23587fb6bed2099021470ecd0af9d36d"
+  },
+  "evidence/targeted-findings.json": {
+    "bytes": 11354,
+    "sha256": "1610918742cedbc95dbd0ee720555fba6237955e9a907b53e5507448a346fc3d"
+  },
+  "evidence/browser-audit.json": {
+    "bytes": 35078,
+    "sha256": "9500c473936b7d18a36373b058423696c008c9e988ae4fc070293094d767ef76"
+  },
+  "evidence/reference-network.txt": {
+    "bytes": 331,
+    "sha256": "7091d94fc92599d5d6b3a510be228a4e9d53c7361e9038cff97a43f10bbec855"
+  },
+  "evidence/branches.json": {
+    "bytes": 4013,
+    "sha256": "8a74cfec495e2aa834bc8dd03766edce29d3f45eaccf0d98c8b6f9746f670c78"
+  },
+  "evidence/review-board-checks.json": {
+    "bytes": 366,
+    "sha256": "a900f9d836a7155b13f618d368331762bfb22d9ce21eb8b3ee78bd9a0b222194"
+  },
+  "screenshots/historical-red-work-fieldwork-390.jpg": {
+    "bytes": 126975,
+    "sha256": "8c11c65bc747d69996a3e7f31c28d6b02339d76b83cff9ab607798d37854e6d4"
+  },
+  "screenshots/jovex-work-fieldwork-1440.jpg": {
+    "bytes": 232375,
+    "sha256": "2e24f0737e5369a400c91d6dd43fc2fbb478cdfae4c08aaac295c1338e1af9cf"
+  },
+  "screenshots/jovex-home-viewport-390.jpg": {
+    "bytes": 33243,
+    "sha256": "5ef48e9e20cb58675fbd1e0262cc17e45396d42072d9ca5fa96f1fb8bbe48181"
+  },
+  "screenshots/jovex-fieldwork-selected-390.jpg": {
+    "bytes": 27540,
+    "sha256": "aeeccc2e2d0520d73bb1c88896fd42d9c890f024e134d24477b4cb3ddfd25c86"
+  },
+  "screenshots/historical-red-home-1440.jpg": {
+    "bytes": 437349,
+    "sha256": "aa2ee74fb94252db3261ada70e2d7b50436b2bdc6e925959a0580053a4ff5449"
+  },
+  "screenshots/jovex-services-selected-1440.jpg": {
+    "bytes": 70810,
+    "sha256": "09a03241f728f92744f91bcc31fd0ea506f93a05b447227f518900217dfb5225"
+  },
+  "screenshots/jovex-work-390.jpg": {
+    "bytes": 100554,
+    "sha256": "9c22aa53d4d4bc6ab5f1a8c7ef9a92cae38f80f0fcc3a0a03235f4ea2c8c935e"
+  },
+  "screenshots/jovex-accessibility-390.jpg": {
+    "bytes": 82495,
+    "sha256": "a43b382ecdc4f7b05ebdf2548664fa7ba4ba62a9a5141ca78eb90624b519b962"
+  },
+  "screenshots/jovex-work-orbit-390.jpg": {
+    "bytes": 140240,
+    "sha256": "3a6c85766fe59be0c947b613d6f6d285eb4b16e344e97748865d9dbe8febec20"
+  },
+  "screenshots/jovex-contact-1440.jpg": {
+    "bytes": 125910,
+    "sha256": "840873e4955e571eebf3e40134f457b97e9980857e3e5153fa1eb8743a90b592"
+  },
+  "screenshots/jovex-navigation-1440.jpg": {
+    "bytes": 7556,
+    "sha256": "00776640916b2b91fac7c5d30a084c98d68a0fa44f999a9ec2d1fbc95a562747"
+  },
+  "screenshots/jovex-privacy-1440.jpg": {
+    "bytes": 155373,
+    "sha256": "1ebdb47fc22dc409a5d573b22b0c17065942c9437d25274253355da587d3bd41"
+  },
+  "screenshots/overflow-growth-375.jpg": {
+    "bytes": 210009,
+    "sha256": "b3cb6646c8206d3a6b72f398a434eb9a04cbe9a3b93f0cb0a8cd5a2897494c13"
+  },
+  "screenshots/growth-illustration-390.jpg": {
+    "bytes": 14559,
+    "sha256": "da5937e74e56a45fc41e241eb06b21166327d4322b911dbee64ccdc1c8295762"
+  },
+  "screenshots/jovex-contact-draft-1440.jpg": {
+    "bytes": 150273,
+    "sha256": "97945af42c4abea8779e103a101176a076b2273d4ca768b6eac86526537a1051"
+  },
+  "screenshots/jovex-work-filtered-1440.jpg": {
+    "bytes": 149792,
+    "sha256": "d3e989247d22e2ccc453edfefb0f928c419891354a93baa6703726317365abdd"
+  },
+  "screenshots/jovex-services-website-design-1440.jpg": {
+    "bytes": 313852,
+    "sha256": "e6ef760f1bfc999057ebdcada12e2f24b655be26e3d60da604b6285f3332e4fc"
+  },
+  "screenshots/jovex-accessibility-1440.jpg": {
+    "bytes": 129329,
+    "sha256": "db3c027905bc1f72da004c26130a0338841360ad8410ac114469f09b554e4388"
+  },
+  "screenshots/jovex-work-1440.jpg": {
+    "bytes": 176311,
+    "sha256": "9c148e912043253ffff011629750c6f99857b9413f37719c9f31cb30d740e1fb"
+  },
+  "screenshots/jovex-project-hover-1440.jpg": {
+    "bytes": 31990,
+    "sha256": "0773fdbd45e86c8537c254b0323f3aed0d6777ecab2ebf79c39902ccd49d9135"
+  },
+  "screenshots/jovex-contact-390.jpg": {
+    "bytes": 84201,
+    "sha256": "4b4384d390cef23590d421693ae29775cec9a0de616aab1b4a9e150c8f789aaf"
+  },
+  "screenshots/historical-red-work-fieldwork-1440.jpg": {
+    "bytes": 223302,
+    "sha256": "796ec79fbd242a465530aefddfce3f6659ea52a6da93a72dfeeb2dfdc99952a9"
+  },
+  "screenshots/jovex-services-redesign-rebranding-390.jpg": {
+    "bytes": 190632,
+    "sha256": "84466bd0d2b7887e219b8a24c3aa3f73c2e174bdde20ee04bd94891ca61f97e9"
+  },
+  "screenshots/historical-red-work-1440.jpg": {
+    "bytes": 173134,
+    "sha256": "9a55d8f58d05e57ffd26b42f09bbbaa6be0cadb0d86242e3740aac687519be66"
+  },
+  "screenshots/jovex-services-workflow-automation-390.jpg": {
+    "bytes": 188468,
+    "sha256": "0cd2fc2c5bf255259413dd64a35b705f9dba0d2ce514d423ce9487da2bedc439"
+  },
+  "screenshots/historical-red-services-390.jpg": {
+    "bytes": 139772,
+    "sha256": "40b64a7ccf61bd565c3f472dd8631f3a0be087fb01a2eaf8c04127d6b8bccd53"
+  },
+  "screenshots/historical-red-work-390.jpg": {
+    "bytes": 93918,
+    "sha256": "ebdd8d75997d015e5ad67ca44c293666cf6b819f73221a2cea7c842ff613e870"
+  },
+  "screenshots/comparison-historical-jovex-desktop.jpg": {
+    "bytes": 74031,
+    "sha256": "eba234123ca8bd51206df3fe7a92d817113df3d03a886200205f01ab2f91083d"
+  },
+  "screenshots/jovex-contact-draft-390.jpg": {
+    "bytes": 109478,
+    "sha256": "ede15846f16833d92904ce4e676565846afbc471761b5ded1860ba12fae558ce"
+  },
+  "screenshots/jovex-orbit-selected-1440.jpg": {
+    "bytes": 41900,
+    "sha256": "060c70a83184d6b88a8ecf8acb86e5329e77fa15c3e5d9b99b99d3a394a73b6b"
+  },
+  "screenshots/jovex-services-1440.jpg": {
+    "bytes": 225494,
+    "sha256": "81aaaf6e7cc02fbb1cac9c176578a46c9eaaabde24ad662ab3ee494221231e6c"
+  },
+  "screenshots/comparison-current-jovex-desktop-mobile.jpg": {
+    "bytes": 58186,
+    "sha256": "18a80a8b842e9c5993245cbccfb6e3c643577a01f5c6db76f547fd3734b0a427"
+  },
+  "screenshots/jovex-work-filtered-390.jpg": {
+    "bytes": 81529,
+    "sha256": "9b8b904a60d41d95ff2eb74721b3515e59d0a21e42f936d350a8dd68753da4fa"
+  },
+  "screenshots/historical-red-home-viewport-390.jpg": {
+    "bytes": 36100,
+    "sha256": "bba035dd08ef8fdac61bfc69e777852c21cd1d451dd8357d8d5480e4600a48c0"
+  },
+  "screenshots/overflow-rebranding-320.jpg": {
+    "bytes": 211805,
+    "sha256": "400e9116f05b84a2cc4e3a44e9dca2f97523534058494535a0d3dd94df63f95f"
+  },
+  "screenshots/jovex-fieldwork-selected-1440.jpg": {
+    "bytes": 42323,
+    "sha256": "951aa437dd0d4bcfe60361578efac91a8b75ff9c10d116a337406ca257e2cd10"
+  },
+  "screenshots/comparison-historical-jovex-mobile.jpg": {
+    "bytes": 104828,
+    "sha256": "7f82ddbaa536e0c9d5e648f0b940f4080d1167dffa28dd321b1ad54a4a1fc5b1"
+  },
+  "screenshots/jovex-about-390.jpg": {
+    "bytes": 153203,
+    "sha256": "9635142a506ddb5d5bf7fed37d5841e976060025bf505da24304a709bacbed57"
+  },
+  "screenshots/historical-red-home-390.jpg": {
+    "bytes": 266271,
+    "sha256": "15e0d499a88f3682f8c9c6e2d2de1057819cbce8ba3f8d12ef16d5e76b9e0564"
+  },
+  "screenshots/jovex-services-lead-generation-390.jpg": {
+    "bytes": 189897,
+    "sha256": "6ffc28d8d39750494991ef1639a3eb964509b35728f8bd1af8b682ae48c13894"
+  },
+  "screenshots/jovex-services-redesign-rebranding-1440.jpg": {
+    "bytes": 301434,
+    "sha256": "4dae395ff09a3408e522a5037ac222319b718df0ed9367b2019ee7a76db158f5"
+  },
+  "screenshots/jovex-home-390.jpg": {
+    "bytes": 268331,
+    "sha256": "36e3be7832a863f312da461d82451846813cc7d2a322c29b3015408129f2d46c"
+  },
+  "screenshots/jovex-services-lead-generation-1440.jpg": {
+    "bytes": 301436,
+    "sha256": "1a0af773977f43d05e99f0bbb9e0d105d7a4cb80e08424d01c31869f2096453c"
+  },
+  "screenshots/jovex-services-website-design-390.jpg": {
+    "bytes": 197786,
+    "sha256": "c408329af2e70ca77cd6d47394d3e97fc43e95d2d07cf4a44fb59b83a22a1156"
+  },
+  "screenshots/jovex-about-1440.jpg": {
+    "bytes": 254192,
+    "sha256": "2b2dd864ea0f1d6bacb3ad13da0bde0a765bc89b773b64039b48a0c07b90d410"
+  },
+  "screenshots/jovex-orbit-selected-390.jpg": {
+    "bytes": 29832,
+    "sha256": "8e7022d27118e3289654b2a581e1f76b95327d0ef6c919e67dbc6865d81f5391"
+  },
+  "screenshots/historical-red-services-1440.jpg": {
+    "bytes": 228894,
+    "sha256": "907402270502b2fccd93ec1487fa31c251eba42c3a53434efd057e3ce47cffd1"
+  },
+  "screenshots/historical-red-home-viewport-1440.jpg": {
+    "bytes": 75786,
+    "sha256": "7f7800b211a5c7f5ebc619c69981468356b81c481eba56029b4cdaa394fc25f9"
+  },
+  "screenshots/jovex-services-selected-390.jpg": {
+    "bytes": 45596,
+    "sha256": "b186852661aa701b760bf1d72d4c398c38fe16f7dea1046c000ea145776f23e1"
+  },
+  "screenshots/jovex-services-workflow-automation-1440.jpg": {
+    "bytes": 298600,
+    "sha256": "f2c303035b70ba99fd4736c4265b4195cbdf6bfe1bacb9990c0f54a768fe3ac6"
+  },
+  "screenshots/jovex-home-1440.jpg": {
+    "bytes": 439082,
+    "sha256": "408f7088ce2c170ad5ba004409eab74483784b0790717dbd4f93847ad24595a4"
+  },
+  "screenshots/jovex-navigation-open-390.jpg": {
+    "bytes": 22590,
+    "sha256": "2270883c99669ebf0c5a65a89f63a0ae3cdfaa5f1e24c5c5d2452c46f6a1b44a"
+  },
+  "screenshots/growth-illustration-1440.jpg": {
+    "bytes": 17525,
+    "sha256": "58f91ed90ddc4c3ae8d1421f710adbc70339b319c04ef6d06b717b41c69c88b3"
+  },
+  "screenshots/overflow-growth-320.jpg": {
+    "bytes": 214735,
+    "sha256": "9df924b89599a0d36f7aef5d609b52238a898dfb03945bc8a78b111a6e2a664a"
+  },
+  "screenshots/jovex-privacy-390.jpg": {
+    "bytes": 99718,
+    "sha256": "00b2676656f9b2b7bc901e908c6090d73913a1e3baf0a9fb82e1bd473f149622"
+  },
+  "screenshots/jovex-work-fieldwork-390.jpg": {
+    "bytes": 137311,
+    "sha256": "c9b9c7e55abaa4bed10ab86721a117f483a09bceb2ad79b457459f6aa55ac2ce"
+  },
+  "screenshots/jovex-work-orbit-1440.jpg": {
+    "bytes": 228347,
+    "sha256": "67dd4846b38cf8958d7460289563f9c6d5a6d9cf7564fa0f6e60776ebb7fd9b2"
+  },
+  "screenshots/jovex-home-viewport-1440.jpg": {
+    "bytes": 67278,
+    "sha256": "0c9a14bc2e6184558815f9c9879f6c6c17c4dd13b7efc164cdf534a4195ffe45"
+  },
+  "screenshots/jovex-services-390.jpg": {
+    "bytes": 134864,
+    "sha256": "e3b61d08830d12dbb9989cf55f0c0e8b430d9dfe98ddaf8bf997e2ce94ad2eba"
+  }
+}
